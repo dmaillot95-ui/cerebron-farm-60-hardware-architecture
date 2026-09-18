@@ -1,0 +1,12 @@
+{
+  "farm_id": 60,
+  "name": "cerebron-farm-60-hardware-architecture",
+  "domain": "hardware-architecture",
+  "status": "SCAFFOLDED",
+  "protocol": "SPIRALIX-OMEGA",
+  "capabilities": [
+    "hardware-system-architecture",
+    "requirements-interfaces"
+  ],
+  "evidence_ceiling": "E2-before-real-tests"
+}
